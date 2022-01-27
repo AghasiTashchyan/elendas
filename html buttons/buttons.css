@@ -1,0 +1,106 @@
+
+body{
+    background-color: rgba(159, 174, 233, 0.192);
+}
+.logo-shadows{
+    
+    text-shadow: 5px 3px #beb9b975;
+}
+
+
+
+
+
+.redE {
+    font-family: 'Lobster', cursive;
+font-size: 62px;
+color: hsl(240, 100%, 50%);
+}
+.E {
+    font-family: 'Lobster', cursive;
+    color: rgb(255, 127, 80);
+    font-size: 62px;
+}
+.N {
+    font-family: 'Lobster', cursive;
+    font-size: 40px;
+    color: rgb(255, 127, 80);
+}
+.grenL{
+    font-family: 'Lobster', cursive;
+    font-size: 40px;
+    color: hsl(240, 100%, 50%);
+}
+/** цветовъе буквъ**/
+.box{
+    margin-bottom: 100px;
+}
+.link{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 24px;
+    color: rgb(161, 146, 10);
+    text-decoration: none;
+    margin-left: 30px;
+    text-shadow: 1px 1px #726e6e;
+    font-family: 'Lobster', cursive; }
+
+    .link:hover{
+        color: rgba(244, 165, 96, 0.486);
+        
+    }
+    .flex_size{ 
+        background-color: rgba(154, 181, 231, 0.13);
+        border-radius: 10%;
+        display: block;
+        margin-left: 20%;
+        left: 40%;
+        align-items: center;
+        height: 50%;
+        width: 50%;
+    }
+   
+    .flex_conteiner{
+        display: flex;
+        justify-content: space-between;
+        margin-bottom: 100px;
+       
+    }
+  
+    .hotel-in-dubai {
+        margin-left: 30px;
+        font-size: 28px;
+        font-family: 'Lobster', cursive;
+        color: rgba(70, 90, 204, 0.829);
+    }
+.hotel-in-dubai span {
+    color: rgba(28, 55, 207, 0.418);
+    font-size: 35px;
+}
+    .paragraf{display: block;
+        font-family: 'Lobster', cursive;
+        font-size: 25px;
+    }
+    .paragraf span{
+        font-size: 20px;
+        color:rgba(28, 55, 207, 0.664);
+    }
+    img{ display: block;
+        
+        border-radius: 9%;
+    }
+    /** Греция**/
+.grecia{
+    display:flex;
+    flex-direction: column;
+    align-items:center;
+    
+    
+}
+  
+    .text-header{ 
+ font-size: 28px;
+ font-family: 'Lobster', cursive;
+ color: rgba(91, 120, 184, 0.76);
+ text-transform: uppercase;
+ letter-spacing: 5px;
+    }
